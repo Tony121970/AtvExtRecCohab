@@ -73,7 +73,7 @@ li {
 }
 
 .sobre {
-  padding-right: 20px;
+  padding-right: 20px; /*20px*/
   padding-left: 20px;
   padding-top: 0%;
   background-color: rgba(128, 100, 64, 0.938);
@@ -81,7 +81,7 @@ li {
 }
 
 .escolher_arquivo {
-  padding-right: 20px; 
+  padding-right: 20px; /*20px*/
   padding-left: 20px;
   padding-top: 0%;
   background-color: rgba(128, 100, 64, 0.938);
@@ -213,6 +213,7 @@ input {
   padding-top: 0px;
 }
 
+
 @media screen and (max-width:768px){
   body {
     display: block;
@@ -317,8 +318,9 @@ input {
     width: 360px;
     padding-top: 10%;
     padding-right: 40px;
-    padding-bottom: 0%;
+    padding-bottom:  0%;
   }
   
 }
   
+
